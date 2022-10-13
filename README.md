@@ -1,6 +1,5 @@
 # ADE-detection-pipeline-from-EHR
-The repository contains codes of different steps of ADE detection pipeline 
-from unstructured EHR data.
+The repository contains codes of different steps of ADE detection pipeline from EHR data.
 
 
 
